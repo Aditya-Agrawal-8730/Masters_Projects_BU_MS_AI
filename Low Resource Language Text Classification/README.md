@@ -26,6 +26,6 @@ in the same directory.
 
 [Link to Project Presentation (GoogleSlides)](https://docs.google.com/presentation/d/1TJqDW-1_XlHr7Zv4RsYMB-65evE6c8q47bltMftypJo/edit#slide=id.g12753121899_0_0)
 
-[Link to Project Report (Github)](https://github.com/nicholaszotalis/505Project/blob/main/505%20Project%20Report.pdf)
+[Link to Project Report (Github)](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Low%20Resource%20Language%20Text%20Classification/505%20Project%20Report.pdf)
 
 [1000 most common Chichewa Words](https://1000mostcommonwords.com/1000-most-common-chichewa-words/)
