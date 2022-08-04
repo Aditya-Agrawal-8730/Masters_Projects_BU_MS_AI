@@ -1,9 +1,9 @@
 # CS 523: Deep Learning Project (Spring 22)
 ## Methods to Detect GAN-Generated Images 
 
-Project Report (Github):- https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/523%20Project%20Final%20Report.pdf
+[Project Report (Github)](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/523%20Project%20Final%20Report.pdf)
 
-Presentation (Google Slides):- https://docs.google.com/presentation/d/1krUXYfpzmqlbyrfA53yYeDE4Wx6tsYp40nwFmgY7wd0/edit?usp=sharing
+[Presentation (Google Slides)](https://docs.google.com/presentation/d/1krUXYfpzmqlbyrfA53yYeDE4Wx6tsYp40nwFmgY7wd0/edit?usp=sharing)
 
 ## (1) Dataset
 
