@@ -1,31 +1,27 @@
-# CS640
+# CS 640: Artificial Intelligence (Fall 22)
+## Demographic Age and Race Prediction of Twitter Users
 
-Final Project CS640 Boston University
+### Group Members:
 
-Group Members:
-
-  Finn Jensen
-  
-  Nick Zotalis
-  
-  Keith Tyser
-  
-  Aditya Agrawal
-  
-  Minh Le Nguyen
+1. Finn Jensen
+2. Nick Zotalis
+3. Keith Tyser  
+4. Aditya Agrawal
+5. Minh Le Nguyen
 
 
-Important files:
-Our dataset creation occurs in [tweets_race_age_csv_creation.ipynb](tweets_race_age_csv_creation.ipynb)
+### Important files:
+
+- Our dataset creation occurs in [tweets_race_age_csv_creation.ipynb](tweets_race_age_csv_creation.ipynb)
 This file collects all information from the given json and csv files to create usable datasets.
 
-The bulk of age prediction code is here: 
+- The bulk of age prediction code is here: 
 [agePrediction.ipynb](agePrediction.ipynb)
 
-Race:
+- Race:
 [racePrediction.ipynb](racePrediction.ipynb)
 
-Our attempts with profile pictures are here:
+- Our attempts with profile pictures are here:
 [profile_pics.ipynb](profile_pics.ipynb)
 
 
