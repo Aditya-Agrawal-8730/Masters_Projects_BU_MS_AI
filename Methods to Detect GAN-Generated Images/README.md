@@ -1,7 +1,7 @@
 # CS 523: Deep Learning Project (Spring 22)
 ## Methods to Detect GAN-Generated Images 
 
-Project Report (Github):- https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/523%20Project%20Final%20Report.pdf
+Project Report (Github):- https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/523%20Project%20Final%20Report.pdf
 
 Presentation (Google Slides):- https://docs.google.com/presentation/d/1krUXYfpzmqlbyrfA53yYeDE4Wx6tsYp40nwFmgY7wd0/edit?usp=sharing
 
@@ -111,11 +111,11 @@ Other references:-
 
 ## (5) Link to Implementations (within Repository):-
 
-1. [Xception](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/Xception.ipynb)  
-2. [Wang2020](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/Wang_2020.ipynb)  
-3. [Spec](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/spec.ipynb)  
-4. [PatchForensic](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/PatchForensic.ipynb)  
-5. [Co-Net](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/Co_Net.ipynb)  
-6. [M-Gb](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/M-Gb.ipynb)  
-7. [SRNet](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/SRNet.ipynb)  
-8. [Our own GAN](https://github.com/MinhNguyen99AI/DeepLearning523---Synthetic-Image-Detector-Assestment/blob/main/ourOwnGan.ipynb)  
+1. [Xception](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/Xception.ipynb)  
+2. [Wang2020](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/Wang_2020.ipynb)  
+3. [Spec](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/spec.ipynb)  
+4. [PatchForensic](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/PatchForensic.ipynb)  
+5. [Co-Net](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/Co_Net.ipynb)  
+6. [M-Gb](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/M-Gb.ipynb)  
+7. [SRNet](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/SRNet.ipynb)  
+8. [Our own GAN](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/ourOwnGan.ipynb)  
