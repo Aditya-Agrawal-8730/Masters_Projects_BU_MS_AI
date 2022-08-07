@@ -5,7 +5,14 @@
 
 [Presentation (Google Slides)](https://docs.google.com/presentation/d/1krUXYfpzmqlbyrfA53yYeDE4Wx6tsYp40nwFmgY7wd0/edit?usp=sharing)
 
-## (1) Dataset
+## (1) Team Members
+
+1. Aditya Agrawal
+2. Minh Le Nguyen
+3. Nicholas Zotalis
+4. Sichao Yu
+
+## (2) Dataset
 
 Our dataset can be found here:
 
@@ -15,7 +22,7 @@ Our dataset can be found here:
 - [Testing Dataset](https://drive.google.com/file/d/1z_fD3UKgWQyOTZIBbYSaQ-hz4AzUrLC1/view)
 
 
-## (2) Requirements
+## (3) Requirements
 
 Python Version - python3/3.8.6 
 
@@ -26,7 +33,7 @@ Libaries required:-
 
 Time to run each notebook:- 30 min to 1 hour per epoch, depending on model complexity.
 
-## (3) Steps on How to install and run: -
+## (4) Steps on How to install and run: -
 
   1. Download the datasets from the google link above. The size of the datasets is 88 gb combined and we could not upload it to Github.
   2. Unzip the two zip files (CNN_synth_testset.zip & progan_train.zip) using Dataset_Unzipping.ipynb notebook. Or using any inbuilt unzipping software. The structure of the directory after unzipping should look like this:-
@@ -90,7 +97,7 @@ Time to run each notebook:- 30 min to 1 hour per epoch, depending on model compl
 ```
   3. Run the notebooks. Each notebook is named as their respective models. All the notebooks can run without any changes needed.
 
-## (4) References
+## (5) References
 
 [Main Reference Paper](https://arxiv.org/abs/2104.02617)
 
@@ -109,7 +116,7 @@ Other references:-
 3. [SR-Net model reference](https://github.com/brijeshiitg/Pytorch-implementation-of-SRNet)
 4. [DCGAN Pytorch Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
-## (5) Link to Implementations (within Repository):-
+## (6) Link to Implementations (within Repository):-
 
 1. [Xception](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/Xception.ipynb)  
 2. [Wang2020](https://github.com/Aditya-Agrawal-8730/Masters_Projects_BU_MS_AI/blob/main/Methods%20to%20Detect%20GAN-Generated%20Images/Wang_2020.ipynb)  
