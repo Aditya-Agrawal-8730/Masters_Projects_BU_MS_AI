@@ -3,7 +3,7 @@ This is the repository for all my projects done during MS in Artificial Intellig
 
 ## Methods to Detect GAN-Generated Image 
 
-Description: The task was to analyze the state-of-the-art methods for the detection of GANs synthetic images, showing the key factors that create a successful approach, and compare methods’ performance over existing generative architecture.
+Description: The task was to analyze the state-of-the-art methods for the detection of GANs synthetic images, showing the key factors that create a successful approach, and compare the methods’ performance over existing generative architecture.
 
 This project was done for the course **CAS CS 523 Deep Learning** during my 2nd semester at BU.
 
